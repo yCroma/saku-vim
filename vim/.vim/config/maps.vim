@@ -21,9 +21,9 @@ noremap G Gzz
 
 " 行の先頭へ 
 noremap <c-e> $
-inoremap <c-e> $
+inoremap <c-e> <Esc>$i
 noremap <c-a> ^
-inoremap <c-a> ^
+inoremap <c-a> <Esc>^i
 
 noremap <c-f> <Right>
 noremap <c-b> <Left>
