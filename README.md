@@ -21,4 +21,4 @@ make run : コンテナを実行
 | `<Space>fi`  | ファイルツリーを開く                    |
 | `<Space>tb`  | 下にターミナルを開く                    |
 | `<Space>tr`  | 右にターミナルを開く                    |
-| `<Space>wre` | window サイズの調整（後で移動に変える） |
+| `<Space>wre` | window サイズの調整|
