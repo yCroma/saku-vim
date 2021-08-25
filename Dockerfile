@@ -4,7 +4,10 @@ RUN apk update && \
     apk add --no-cache \
     git \
     curl \
-    vim
+    npm \
+    nodejs \
+    vim \
+    fzf
 
 COPY ./vim/.vimrc /root/.vimrc
 COPY ./vim/.vim /root/.vim
